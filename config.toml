@@ -1,0 +1,59 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jamie Baxter"
+theme = "finite"
+
+# Publications can have a Params.publication for citation references.
+# Publications can have a Params.kind, such as "book".
+# Both parameters are mapped to an icon in partials/pub-icon.html.
+
+bio_full = "Jamie Baxter: Assistant Professor"
+
+# Title of posts section on main page.
+#posts_title = "Posts"
+
+# Number of posts to show on main page.
+#posts_count = 2
+
+# Title of publications section on main page.
+pubs_title = "Works"
+
+# Number of publications to show on main page.
+pubs_count = 3
+
+[[params.education]]
+  course = "JSD"
+  institution = "Yale"
+  year = 2018
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:jamie.baxter@dal.ca"
+  text = "jamie.baxter@dal.ca"
+    
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "//https://gist.github.com/Ayrx/5884802"
+  text = "Fermat"
+  site = "GitHub"
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Works"
+  url = "/publication/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 4
