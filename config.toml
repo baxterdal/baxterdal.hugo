@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://baxterdal.github.io/"
 languageCode = "en-us"
 title = "Jamie Baxter"
 theme = "finite"
+publishDir = "baxterdal.github.io"
 
 # Publications can have a Params.publication for citation references.
 # Publications can have a Params.kind, such as "book".
