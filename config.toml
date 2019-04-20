@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Jamie Baxter"
 theme = "finite"
 publishDir = "baxterdal.github.io"
+canonifyurls = true
+paginate = 3
 
 # Publications can have a Params.publication for citation references.
 # Publications can have a Params.kind, such as "book".
@@ -17,7 +19,7 @@ bio_full = "Jamie Baxter: Assistant Professor"
 #posts_count = 2
 
 # Title of publications section on main page.
-pubs_title = "Works"
+# pubs_title = "Works"
 
 # Number of publications to show on main page.
 pubs_count = 3
@@ -33,12 +35,11 @@ pubs_count = 3
   link = "mailto:jamie.baxter@dal.ca"
   text = "jamie.baxter@dal.ca"
     
-
 [[params.social]]
   icon = "github"
   icon_pack = "fa"
-  link = "//https://gist.github.com/Ayrx/5884802"
-  text = "Fermat"
+  link = "//https://github.com/baxterdal"
+  text = "baxterdal"
   site = "GitHub"
 
 # Navigation Links
