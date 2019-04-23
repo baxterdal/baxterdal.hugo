@@ -1,0 +1,12 @@
++++
+abstract = "This article critically examines the role of political leadership in shaping and sustaining institutional reforms. While leadership has recently attracted a great deal of attention from other social scientists, law and development scholars have only begun to seriously consider the influence of leaders on institutions and development outcomes. The article explores the new mantra that “leadership matters” as cause for both careful optimism and renewed attention to some deeper anxieties about the future directions of law and development. On one side, emerging models of leadership provide important insights about how to change dysfunctional institutions and how to sustain those changes over the long run. A number of major studies published in the last few years have made some version of the claim that successful reforms inevitably require the dedicated leadership of one or more prominent individuals, positing good leaders as a necessary condition for institutional transitions. But the argument that good leadership itself determines good institutions also risks reproducing one of the most obstinate dilemmas in modern social theory: the contest between “structure” and “agency” as causal explanations of social change. If the new mantra that “leadership matters” represents a shift in focus away from the structure of law and politics and towards the influence of individual agents’ choices, actions, talents and beliefs, there is good reason to be sceptical about whether simply privileging agency over structure—or the inverse—has any greater chance of success than the many failed attempts to do just that in other fields of knowledge over the past several decades. Instead, the present moment could be a valuable opportunity to assess whether alternative and more integrative approaches to the longstanding structure-agency impasse in development law and policy are possible."
+abstract_short = ""
+authors = ["Jamie Baxter"]
+date = "2018-01-01"
+image = ""
+image_preview = ""
+publication = "Jamie Baxter, \"Leadership, Law and Develpment\" (2018) 12(1) *Law & Development Review* 119"
+publication_short = ""
+title = "Leadership, Law and Development"
+url_pdf = "https://doi.org/10.1515/ldr-2018-0046"
++++
